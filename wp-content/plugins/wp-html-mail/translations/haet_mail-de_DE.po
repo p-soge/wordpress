@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP HTML Mail 2.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-17 19:47:32+00:00\n"
+"PO-Revision-Date: Tue May 17 2016 22:17:59 GMT+0200 (CEST)\n"
+"Last-Translator: hannes <hannes@haet.at>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE"
+
+#. Plugin Name of the plugin/theme
+msgid "WP HTML Mail"
+msgstr "WP HTML Mail"
+
+#. URI of the plugin
+msgid "http://wp-html-mail.com"
+msgstr "http://wp-html-mail.com"
+
+#. Description of the plugin/theme
+msgid "Use custom HTML mail templates for your WordPress mails"
+msgstr "Erstelle eigene E-Mail Templates für all deine WordPress Mails"
+
+#. Author of the plugin/theme
+msgid "Hannes Etzelstorfer"
+msgstr "Hannes Etzelstorfer\n"
+
+#. Author URI of the plugin
+msgid "http://etzelstorfer.com/en"
+msgstr "http://etzelstorfer.com"
+
+#: ../includes/class-contenttype-text.php:47
+msgid "Text"
+msgstr "Text"
+
+#: ../includes/class-contenttype-twocol.php:47
+msgid "Two Columns"
+msgstr "Zwei Spalten"
+
+#: ../includes/class-contenttype-twocol.php:62
+msgid ".."
+msgstr ""
+
+#: ../includes/class-haet-mail-builder.php:38 ../includes/class-mailbuilder.php:43
+msgid "custom emails"
+msgstr "Eigene E-Mails"
+
+#: ../includes/class-haet-mail-builder.php:39 ../includes/class-mailbuilder.php:44
+msgid "custom email"
+msgstr "Eigene E-Mail"
+
+#: ../includes/class-haet-mail-builder.php:40 ../includes/class-haet-mail-builder.
+#: php:41 ../includes/class-mailbuilder.php:45 ../includes/class-mailbuilder.php:46
+msgid "Add New Custom Email"
+msgstr "Neue E-Mail"
+
+#: ../includes/class-haet-mail-builder.php:42 ../includes/class-mailbuilder.php:47
+msgid "Edit Custom Email"
+msgstr "E-Mail bearbeiten"
+
+#: ../includes/class-haet-mail-builder.php:43 ../includes/class-mailbuilder.php:48
+msgid "New Custom Email"
+msgstr "Neue E-Mail"
+
+#: ../includes/class-haet-mail-builder.php:44 ../includes/class-mailbuilder.php:49
+msgid "View Custom Email"
+msgstr "E-Mail anzeigen"
+
+#: ../includes/class-haet-mail-builder.php:45 ../includes/class-mailbuilder.php:50
+msgid "Search Custom Emails"
+msgstr "E-Mail suchen"
+
+#: ../includes/class-haet-mail-builder.php:46 ../includes/class-mailbuilder.php:51
+msgid "No Custom Emails found"
+msgstr "keine E-Mails gefunden"
+
+#: ../includes/class-haet-mail-builder.php:47 ../includes/class-mailbuilder.php:52
+msgid "No Custom Emails found in Trash"
+msgstr "Keine E-Mails im Papierkorb gefunden"
+
+#: ../includes/class-haet-mail-builder.php:48 ../includes/class-mailbuilder.php:53
+msgid "Parent Custom Email:"
+msgstr "übergeordnete E-Mail"
+
+#: ../includes/class-haet-mail-builder.php:49 ../includes/class-mailbuilder.php:54
+msgid "Custom Emails"
+msgstr "Eigene E-Mails"
+
+#: ../includes/class-haet-mail-builder.php:83 ../includes/class-mailbuilder.php:90
+msgid "Email Subject"
+msgstr "E-Mail Betreff"
+
+#: ../includes/class-haet-mail-builder.php:85 ../includes/class-mailbuilder.php:92
+msgid "Email Content Builder"
+msgstr "E-Mail Content Builder"
+
+#: ../includes/class-haet-mail-builder.php:110 ../includes/class-haet-mail-
+#: builder.php:164 ../includes/class-mailbuilder.php:183
+msgid "Add Content Element"
+msgstr "Inhalt hinzufügen"
+
+#: ../includes/class-haet-mail-builder.php:131
+msgid "Text Element"
+msgstr "Text Element"
+
+#: ../includes/class-haet-mail-builder.php:137
+msgid "Text two columns"
+msgstr "Zweispaltiger Text"
+
+#: ../includes/class-haet-mail-builder.php:143
+msgid "Text three columns"
+msgstr "Dreispaltiger Text"
+
+#: ../includes/class-haet-mail-builder.php:165
+msgid "Your email is empty"
+msgstr "Deine E-Mail ist noch leer"
+
+#: ../includes/class-haet-mail-builder.php:166
+msgid "Please click the button below to add content."
+msgstr "Klicke unten auf den Button um Inhalt hinzuzufügen."
+
+#: ../includes/class-haet-sender-plugin-ninja-forms.php:41
+msgid "Yes"
+msgstr "Ja"
+
+#: ../includes/class-haet-sender-plugin-ninja-forms.php:42
+msgid "No"
+msgstr "Nein"
+
+#: ../includes/class-haet-sender-plugin-wp-e-commerce.php:9
+msgid "Transaction Report"
+msgstr "Transaktionsbericht"
+
+#: ../includes/class-haet-sender-plugin-wp-e-commerce.php:10
+msgid "Purchase Receipt"
+msgstr "Rechnung"
+
+#: ../includes/class-haet-sender-plugin-wp-e-commerce.php:11
+msgid "Order Pending: Payment Required"
+msgstr "Bestellung in Bearbeitung: Zahlung ausstehend"
+
+#: ../includes/class-haet-sender-plugin-wp-e-commerce.php:13
+msgid "The administrator has unlocked your file"
+msgstr "Der Administrator hat Ihre Datei entsperrt"
+
+#: ../includes/class-mailbuilder.php:88
+msgid "Message"
+msgstr "Nachricht"
+
+#: ../includes/class-mailbuilder.php:142
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ../includes/class-mailbuilder.php:146
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../includes/class-haet-mail.php:124
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../includes/class-haet-mail.php:124
+msgid "Email template"
+msgstr "E-Mail Template"
+
+#: ../includes/class-haet-mail.php:149
+msgid "Settings Updated."
+msgstr "Einstellungen gespeichert"
+
+#: ../includes/class-haet-mail.php:189 ../views/admin/settings.php:18
+msgid "General"
+msgstr "Allgemein"
+
+#: ../includes/class-haet-mail.php:190 ../views/admin/settings.php:47
+msgid "Header"
+msgstr "Header"
+
+#: ../includes/class-haet-mail.php:191 ../views/admin/settings.php:162
+msgid "Content"
+msgstr "Inhalt"
+
+#: ../includes/class-haet-mail.php:198 ../views/admin/settings.php:305 ..
+#: views/admin/settings.php:316
+msgid "Footer"
+msgstr "Footer"
+
+#: ../includes/class-haet-mail.php:199
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../includes/class-haet-mail.php:200
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: ../views/admin/settings.php:23 ../views/admin/settings.php:52 ..
+#: views/admin/settings.php:167 ../views/admin/settings.php:310
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: ../views/admin/settings.php:29
+msgid "Email sender name"
+msgstr "Absender Name"
+
+#: ../views/admin/settings.php:35
+msgid "Email sender address"
+msgstr "Absender E-Mail"
+
+#: ../views/admin/settings.php:59
+msgid "Header image"
+msgstr "Header Bild"
+
+#: ../views/admin/settings.php:64
+msgid "Select image"
+msgstr "Bild wählen"
+
+#: ../views/admin/settings.php:68
+msgid "Add your logo or image header (optional). max 600px wide"
+msgstr "Wähle dein Headerbild oder Logo (optional). maximal 600px breit"
+
+#: ../views/admin/settings.php:73
+msgid "Padding"
+msgstr "Innerer Abstand"
+
+#: ../views/admin/settings.php:76
+msgid "top"
+msgstr "oben"
+
+#: ../views/admin/settings.php:83
+msgid "right"
+msgstr "rechts"
+
+#: ../views/admin/settings.php:90
+msgid "bottom"
+msgstr "unten"
+
+#: ../views/admin/settings.php:97
+msgid "left"
+msgstr "links"
+
+#: ../views/admin/settings.php:107
+msgid "Header text"
+msgstr "Header Text"
+
+#: ../views/admin/settings.php:115
+msgid "Font"
+msgstr "Schriftart"
+
+#: ../views/admin/settings.php:134 ../views/admin/settings.php:199 ..
+#: views/admin/settings.php:235 ../views/admin/settings.php:271 ..
+#: views/admin/settings.php:289
+msgid "Bold"
+msgstr "Fett"
+
+#: ../views/admin/settings.php:140 ../views/admin/settings.php:205 ..
+#: views/admin/settings.php:241 ../views/admin/settings.php:277
+msgid "Italic"
+msgstr "Kursiv"
+
+#: ../views/admin/settings.php:145
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: ../views/admin/settings.php:149 ../views/admin/settings.php:190 ..
+#: views/admin/settings.php:226 ../views/admin/settings.php:262
+msgid "Left"
+msgstr "Links"
+
+#: ../views/admin/settings.php:150 ../views/admin/settings.php:191 ..
+#: views/admin/settings.php:227 ../views/admin/settings.php:263
+msgid "Center"
+msgstr "Zentriert"
+
+#: ../views/admin/settings.php:151 ../views/admin/settings.php:192 ..
+#: views/admin/settings.php:228 ../views/admin/settings.php:264
+msgid "Right"
+msgstr "Rechts"
+
+#: ../views/admin/settings.php:174
+msgid "Headline Font"
+msgstr "Überschrift Schriftart"
+
+#: ../views/admin/settings.php:210
+msgid "Subsubheadline Font"
+msgstr "Untertitel Schriftart"
+
+#: ../views/admin/settings.php:246
+msgid "Content Font"
+msgstr "Inhalt Schriftart"
+
+#: ../views/admin/settings.php:282
+msgid "Link styling"
+msgstr "Link Formatierung"
+
+#: ../views/admin/settings.php:295
+msgid "Underline"
+msgstr "Unterstrichen"
+
+#: ../views/admin/settings.php:327
+msgid "Show \"powered by\" link in email footer"
+msgstr "Zeige den \\\"powered by\\\" Link in der E-Mail Fußzeile"
+
+#: ../views/admin/settings.php:337
+msgid "Use template for mails sent by your installed plugins"
+msgstr ""
+"Verwende dieses Template, die von deinen installierten Plugins gesendet "
+"werden"
+
+#: ../views/admin/settings.php:374
+msgid "Advanced features"
+msgstr "Erweiterte Funktionen"
+
+#: ../views/admin/settings.php:388
+msgid "Create custom template"
+msgstr "Eigenes Template erstellen"
+
+#: ../views/admin/settings.php:391
+msgid "create template file in my theme folder"
+msgstr "Template Dateien in meinem Theme Ordner anlegen"
+
+#: ../views/admin/settings.php:393
+msgid ""
+"You already have a custom template. If you create a new one the existing "
+"template will be backed up."
+msgstr ""
+"Du hast bereits ein eigenes Template angelegt. Wenn du ein weiteres anlegst "
+"wird zuerst ein Backup des aktuellen erstellt."
+
+#: ../views/admin/settings.php:396
+msgid ""
+"WARNING: Your theme directory is not writable by the server. Please change "
+"the permission to allow us to create the mail template."
+msgstr ""
+"ACHTUNG: Dein Theme-Order ist nicht beschreibbar. Bitte ändere die "
+"Zugriffsrechte, damit das Template angelegt werden kann."
+
+#: ../views/admin/settings.php:399
+msgid ""
+"Customize your mail template as far as you can. Then click this button to "
+"export the template to your theme directory for further modifications."
+"<br>The template will be created in <strong>wp-content/YOUR-THEME/wp-html-"
+"mail/template.html</strong>"
+msgstr ""
+"Formatiere dein Template so weit du kannst und klicke dann den Button um das "
+"Template zu generieren und weitere Änderungen im Quellcode vorzunehmen."
+"<br>Das Template wird im Ordner <strong>wp-content/DEIN-THEME/wp-html-"
+"mail/template.html</strong> erstellt"
+
+#: ../views/admin/settings.php:401
+msgid "Template created"
+msgstr "Template angelegt"
+
+#: ../views/admin/settings.php:403
+msgid "Your template has been created."
+msgstr "Dein Template wurde angelegt"
+
+#: ../views/admin/settings.php:421
+msgid "Save and Preview"
+msgstr "Speichern und Vorschau"
+
+#: ../views/admin/settings.php:422
+msgid "Discard changes and reload template"
+msgstr "Änderungen verwerfen und Template neu laden"
+
+#: ../views/admin/settings.php:429
+msgid "Send a test mail"
+msgstr "Testnachricht versenden"
+
+#: ../views/admin/settings.php:432
+msgid "send test mail"
+msgstr "Testnachricht versenden"
+
+#: ../views/admin/settings.php:433
+msgid "Email sent"
+msgstr "E-Mail gesendet"
+
+#: ../views/admin/settings.php:435
+msgid "Your message has been sent."
+msgstr "Deine E-Mail wurde gesendet."
+
+#: ../views/admin/single-plugin.php:14
+msgid "Use template"
+msgstr "Template verwenden"
+
+#: ../views/admin/single-plugin.php:18
+msgid "Overwrite sender"
+msgstr "Absender überschreiben"
+
+#: ../views/admin/single-plugin.php:21
+msgid "Install WP HTML Mail for"
+msgstr "Installiere WP HTML Mail für"
+
+#: ../views/admin/single-plugin.php:27
+msgid "is currently not installed."
+msgstr "ist aktuell nicht installiert."
+
+#: ../views/admin/single-plugin.php:29
+msgid "install"
+msgstr "installieren"

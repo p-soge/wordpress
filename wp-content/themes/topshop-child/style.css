@@ -1,0 +1,32 @@
+/* 
+Theme Name: Topshop Child 
+Version: 1.0 
+Description: Child theme for topshop. 
+Author: Woocom
+Author URI: http://woocommerce.com 
+Template: topshop 
+*/  
+
+
+/* import default parent styles */
+@import url("../topshop/style.css");
+
+.woocommerce ul.products li.product a:hover img,.woocommerce-page ul.products li.product a:hover img {
+   box-shadow: 0 0 0 4px #fff, 0 2px 18px #fff ;
+   
+   
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+	border:1px solid #ddd;
+}
+
+#comments .form-submit #submit, .search-block .search-submit, .no-results-btn, button, input[type="button"], input[type="reset"], input[type="submit"], .home-slider-prev, .home-slider-next, .woocommerce ul.products li.product a.add_to_cart_button, .woocommerce-page ul.products li.product a.add_to_cart_button, .woocommerce ul.products li.product .onsale, .woocommerce-page ul.products li.product .onsale, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce .cart-collaterals .shipping_calculator .button, .woocommerce-page .cart-collaterals .shipping_calculator .button, .woocommerce a.button, .woocommerce-page a.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page input.button, .woocommerce #review_form #respond .form-submit input, .woocommerce-page #review_form #respond .form-submit input, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .single-product span.onsale, .header-cart:hover .header-cart-checkout .fa, .main-navigation a:hover, .main-navigation li.current-menu-item > a, .main-navigation li.current_page_item > a, .main-navigation li.current-menu-parent > a, .main-navigation li.current_page_parent > a, .main-navigation li.current-menu-ancestor > a, .main-navigation li.current_page_ancestor > a, .main-navigation button, .wpcf7-submit{
+
+background-color: green;
+	
+	
+}
+.page-title{
+	color:green;
+}

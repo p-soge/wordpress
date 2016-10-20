@@ -1,0 +1,619 @@
+/* Have fun adding your style here :) - PS: At all times this file should contain a comment or a rule, otherwise opera might act buggy :( */
+
+
+	
+
+<!-- ####### HOME PAGE ####### -->
+
+.main-title > a {
+    color: #DDDDDD !important;
+}
+
+h7 {
+    color: #DDDDDD !important;
+}
+
+/*
+#menu-item-46 > a {
+    background-image: url("ttp://misskate.com.au/wp-content/uploads/2013/05/menu-arrow-down.png");
+    background-position: 54px 20px;
+    background-repeat: no-repeat;
+    padding-right: 0px;
+} */
+
+.dynamic_textarea_p.dynamic_element.dynamic_el_2 {
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.single_slide.active_slide {
+    margin-bottom: 300px;
+}
+
+
+body {
+    background: url("http://misskate.com.au/wp-content/uploads/2013/05/body-bg.png") no-repeat scroll center 218px / auto #FAE0E4;
+
+}
+
+#top.single-product .eight .price span {
+  color: #F16994;
+  font-size: 30px;
+  font-weight: normal;
+}
+#top.single-product .eight .price del span {
+    color: #ccc;
+}
+
+.product_title.entry-title {
+    float: left;
+    width: 65%;
+	margin-top: -11px;
+}
+
+#searchsubmit {
+    background-color: #ddd;
+}
+
+#top .single_add_to_cart_button  {
+    background-color: #fff;
+    background-image: url("http://misskate.com.au/wp-content/uploads/2014/01/addtocart.png");
+    background-repeat: no-repeat;
+    border: 0 solid #E1E1E1;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
+    height: 42px;
+    margin: 0;
+    padding: 15px 2.2%;
+    text-indent: -9999px;
+    width: 119px;
+}
+
+div form.cart div.quantity {
+    float: none;
+    margin: 0 3% 10px 0;
+    min-width: 125px;
+}
+
+	<!-- ####### header and menu ####### -->
+	
+
+
+.main_menu ul:first-child > li > ul {
+    border-top: medium none;
+    margin-top: 18px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.main_menu > div ul:first-child > li {
+    padding-bottom: 0px !important;
+    padding-top: 0 !important;
+}
+
+
+.main_menu > div ul:first-child > li a {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.container_wrap.container_wrap_menu.header_color.light_bg_color {
+    background-color: #FFFFFF;
+}
+
+.sub-menu {
+    margin-top: 19px !important;
+}
+
+.container_wrap_menu {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.3);
+    left: 0;
+    width: 100%;
+}
+
+#logo_container.container {
+    margin: 0 auto;
+}
+.slideshow_color.container_wrap.light_bg_color {
+    margin: 10px auto;
+    width: 95%;
+}
+
+.boxed #wrap_all {
+    margin: 20px auto;
+    width: 990px;
+}
+
+.container_wrap.container_wrap_menu.header_color.light_bg_color {
+    z-index: 100;
+}
+
+.logo {
+    margin-bottom: 30px;
+}
+
+#header .container_wrap_logo {
+    padding-bottom: 35px;
+}
+
+.kate-footer-nav {
+    float: left;
+   margin-top: 20px !important;
+}
+
+.kate-footer-nav > li {
+    display: inline;
+    color: #FFFFFF;
+    font-size: 10pt;
+    padding-right: 20px;
+}
+#footer-image {
+    float: right;
+    margin-right: 20%;
+}
+#footer .container {
+    padding: 0px;
+}
+
+.container_wrap.footer_color {
+    background-color: #EF96A9;
+}
+
+.container_wrap.socket_color {
+    background-color: #F4B6C2;
+}
+#socket .copyright {
+    color: #FFFFFF;
+    float: right;
+    font-size: 10pt;
+}
+#socket .container {
+    padding-bottom: 0px;
+}
+#socket-image {
+    float: left;
+margin-left: 30%;
+}
+
+#socket-image > img {
+    vertical-align: bottom;
+}
+
+.csstransitions #top .products .product:hover>.inner_product, #top .products .product.js_hover:hover>.inner_product{
+z-index: 100;
+width:98%;
+left:-0%;
+-moz-box-shadow: 	0px 0px 8px rgba(0, 0, 0, 0.3);
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 		0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+.seperator.extralight-border {
+    display: none;
+}
+
+.children li a:hover {
+    background-color: #ccc;
+}
+
+#kate-social {
+    float: right;
+ margin-top: 30px;
+}
+
+.page_item.page-item-2:hover {
+    background-color: #E9638D;
+    color: #FFFFFF;
+}
+
+.main_menu ul li a:hover, .main_menu ul li.current_page_item > a {
+    color: #FFFFFF;
+    background-color: #E9638D;
+}
+
+.cart_dropdown {
+    background-color: #FFFFFF !important;
+    margin-top: 12px !important;
+}
+#menu_container {
+    margin-left: 16px;
+}
+.main_menu {
+    margin: 0;
+    padding: 0;
+}
+
+.main_menu > div ul:first-child > li {
+	height: 42px !important;
+    line-height: 40px;
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
+.container_wrap.container_wrap_menu.header_color.light_bg_color {
+    background-color: #FFFFFF;
+}
+
+.container_wrap_menu {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.3);
+    left: 0;
+    width: 100%;
+}
+
+#logo_container.container {
+    margin: 0 auto;
+}
+
+.boxed #wrap_all {
+    margin: 20px auto;
+    width: 990px;
+}
+
+.container_wrap.container_wrap_menu.header_color.light_bg_color {
+    z-index: 100;
+}
+
+.logo {
+    margin-bottom: 30px;
+}
+
+#header .container_wrap_logo {
+    padding-bottom: 35px;
+}
+
+
+<!-- ####### FOOTER ####### -->
+
+a {
+    outline: 0 none;
+    text-decoration: none;
+}
+.kate-footer-nav li a {
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+}
+
+
+.kate-footer-nav {
+    float: left;
+   margin-top: 10px;
+}
+
+/*
+
+.kate-footer-nav > li:before {
+    content: "·";
+    font-size: 30px;
+    padding-right: 10px;
+    padding-top: 39px;
+}  
+*/
+
+.kate-footer-nav > li {
+    display: inline;
+    font-size: 10pt;
+    padding-right: 20px;
+
+}
+#footer-image {
+    float: right;
+    margin-right: 20%;
+}
+#footer .container {
+    padding: 0px;
+}
+
+.container_wrap.footer_color {
+    background-color: #EF96A9;
+}
+
+.container_wrap.socket_color {
+    background-color: #F4B6C2;
+}
+#socket .copyright {
+    color: #FFFFFF;
+    float: right;
+    font-size: 10pt;
+	    line-height: 20px;
+}
+
+
+#socket .container {
+    padding-bottom: 0px;
+}
+#socket-image {
+    float: left;
+margin-left: 30%;
+}
+
+#socket-image > img {
+    vertical-align: bottom;
+}
+
+.csstransitions #top .products .product:hover>.inner_product, #top .products .product.js_hover:hover>.inner_product{
+z-index: 100;
+width:98%;
+left:-0%;
+-moz-box-shadow: 	0px 0px 8px rgba(0, 0, 0, 0.3);
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 		0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+.seperator.extralight-border {
+    display: none;
+}
+
+
+.inner_sidebar {
+    border-left-style: solid;
+    border-left-width: 0;
+    overflow: hidden;
+    padding-left: 10px;
+    position: relative;
+    z-index: 2;
+}
+
+ #top.page-id-11 a.active-parent-item,  #top.page-id-11 a.active-page-item {
+    color: #FFFFFF;
+}
+
+
+.current_page_parent, .header_color.menu ul:first-child > li a:hover, .header_color.menu ul:first-child > li.current_page_item > a, .header_color.main_menu ul:first-child > li.active-parent-item > a {
+    background-color: #E9638D;
+	    color: #FFFFFF;
+}
+
+.header_color .main_menu ul:first-child > li a:hover, .header_color .main_menu ul:first-child > li.current_page_item > a, .header_color .main_menu ul:first-child > li.active-parent-item > a {
+    color: #FFFFFF;
+}
+
+.cart_dropdown_link:hover, .cart_list.product_list_widget a:hover {
+    background-color: #FFFFFF !important;
+    color: #999 !important;
+}
+
+.dropdown_widget.dropdown_widget_cart {
+    margin-top: 2px;
+}
+
+ins span.amount {
+    color: #F16994 !important;
+}
+
+
+h7 {
+    color: #E9638D !important;
+	font-weight:bold;
+	font-size: 14px;
+}
+
+.wpcf7-form-control.wpcf7-submit {
+    background-color: #FFFFFF !important;
+    background-image: url("http://misskate.com.au/wp-content/uploads/2013/05/blank-button.png");
+    height: 38px;
+    width: 85px;
+	text-indent: -9999;
+}
+
+.container_wrap.main_color.sidebar_right {
+    margin-top: -30px !important;
+}
+
+.sidebar_right {
+    margin-top: -70px !important;
+	z-index: 9999;
+}
+
+#top .main_color .onsale {
+background-color: #E9638D;
+}
+
+.slideshow_media_wrap > img {
+    max-width: 925px;
+}
+
+.slideshow_media_wrap {
+	height: 430px;
+}
+
+#top .slideshow li img {
+  margin: 10px auto !important;
+
+}
+
+.main-title > a, .main-title {
+    color: #8C8C8C !important;
+}
+
+.product_title.entry-title, #tab-description > h2, .cart_totals > h2, #top h1 a, #top h2 a, #top h3 a, #top h4 a, #top h5 a, #top h6 a  {
+    color: #858585 !important;
+	font-size: 30px;
+}
+
+.main_color .primary-background, .main_color .dropcap2, .main_color .primary-background a, .main_color .slide_controls a:hover, .main_color .avia_welcome_text, .main_color .avia_welcome_text a, div .main_color .button, .main_color #submit, .main_color .big_button, .main_color .iconbox_icon, .main_color .iconbox_top_icon, .main_color .side-container-inner .day, #top .main_color .active_item, .main_color .contentSlideControlls .activeItem, .main_color input[type="submit"], .main_color .footer_arrow div, #top .main_color .footer_arrow .inner_content {
+    background-color: #E9638D;
+    border-color: #E9638D;
+    color: #FFFFFF;
+}
+
+.main_color .button:hover, .main_color .ajax_controlls a:hover, .main_color #submit:hover, .main_color .big_button:hover, .main_color .contentSlideControlls a:hover, .main_color input[type="submit"]:hover {
+    background-color: #F4B6C2;
+    border-color: #F4B6C2;
+    color: #FFFFFF;
+}
+
+#top div.woocommerce-message {
+    background-color: #fbe7e9 !important;
+    border-color: #8BAF5B;
+    color: #858585;
+}
+
+#top .slideshow_container {
+    clear: both;
+    margin-bottom: 0;
+    position: relative;
+}
+
+.slideshow_container.dynamic_element.dynamic_el_1.slide_container_small {
+    max-height: 435px;
+	  border: medium none;
+  box-shadow: none;
+}
+
+.numeric_controls, .arrow_controls {
+  bottom: 17px !important;
+  position: absolute;
+}
+
+div .arrow_controls {
+  right: 70px !important;
+}
+
+/*
+#menu-item-46.current_page_parent a {
+color: white !important;
+}
+*/
+
+.current_page_parent >  a {
+color: white !important;
+}
+
+<!-- ####### general formatting ####### -->
+
+
+
+
+ #top.page-id-84 .bc-container-wrap {
+display: none;
+}
+
+ #top.page-id-58 .bc-container-wrap {
+display: none;
+}
+
+ #top.page-id-81 .bc-container-wrap {
+display: none;
+}
+
+ #top.page-id-47 .bc-container-wrap {
+display: none;
+}
+
+#top.page-id-37 .bc-container-wrap {
+display: none;
+}
+
+#top.page-id-49 .bc-container-wrap {
+display: none;
+}
+
+#top.page-id-39 .bc-container-wrap {
+display: none;
+}
+
+ #top.page-id-72 .bc-container-wrap {
+display: none;
+}
+
+
+/* #Media Queries
+================================================== */
+
+
+/* large screens with 1140px with */
+	
+	@media only screen and (min-width: 1140px)  {
+		
+			#kate-social img {
+    width: 30%;
+}
+
+		}
+
+
+/* extra for kate sot hat the bg image shows properly */
+	@media only screen and (max-width: 1139px) {
+	
+
+body {
+    background: url("http://misskate.com.au/wp-content/uploads/2013/05/body-bg.png") no-repeat scroll center 218px / 1250px auto #FAE0E4 !important;
+}
+
+.numeric_controls, .arrow_controls {
+  bottom: 10px !important;
+  position: absolute;
+}
+
+div .arrow_controls {
+  right: 10px !important;
+}
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {
+	
+	#kate-social img {
+    width: 30%;
+}
+
+body {
+    background: url("http://misskate.com.au/wp-content/uploads/2013/05/body-bg.png") no-repeat scroll center 218px / 980px auto #FAE0E4 !important;
+}
+	
+	}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 989px) {
+		
+	.logo img {
+    width: 80%;
+}
+h1.logo {
+    width: 50%;
+}
+
+#kate-social {
+    float: left;
+    margin-top: 30px;
+    width: 50%;
+}
+
+	#kate-social img {
+    width: 30%;
+}
+	body {
+    background: url("http://misskate.com.au/wp-content/uploads/2013/05/body-bg.png") no-repeat scroll center 178px / 980px auto #FAE0E4 !important;
+}
+	}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+		
+body {
+    background: url("http://misskate.com.au/wp-content/uploads/2013/05/body-bg.png") no-repeat scroll center 340px / 610px auto #FAE0E4 !important;
+}
+
+	 	
+	 }
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		.sidebar_right {
+    margin-top: 0px !important;
+	z-index: 9999;
+}
+	}
+
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) { 
+.dynamic-title-no #main, .dynamic-template #footer {
+    margin-top: 60px;
+}
+
+	}

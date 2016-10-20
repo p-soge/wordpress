@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Admin CSS*/
+
+
+ul.login_theme_bg_img_list{}
+
+ul.login_theme_bg_img_list li {
+  display: inline-block;
+  margin: 5px;
+}
+ul.login_theme_bg_img_list li.bg-selected {}
+
+ul.login_theme_bg_img_list li img{border: 2px solid #ffffff;}
+
+ul.login_theme_bg_img_list li.bg-selected img{
+  border: 2px solid #ff5a11;
+}

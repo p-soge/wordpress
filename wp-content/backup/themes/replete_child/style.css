@@ -1,0 +1,26 @@
+/*
+Theme Name:     Miss Kate Website
+Description:    
+Author:         Boutique By Design 
+Author URI:     http://www.boutiquebydesign.com
+Version: 1.1
+Template:       replete
+
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../replete/style.css");
+
+.dynamic_textarea_p.dynamic_element.dynamic_el_2 {
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.nine.alpha.alpha.units.entry-content li {
+list-style-type: none;
+background: url('http://misskate.com.au/wp-content/uploads/2013/05/flower.png') no-repeat top left;
+height: 46px;
+padding-left: 40px;
+} 
+

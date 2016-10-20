@@ -1,0 +1,87 @@
+/*
+ Theme Name:   Twenty sixteen Childs 
+ Aurthor : Prashant
+ version :1.0
+
+ */
+
+ .menu-menu-footer-container ul li  {
+float: left;
+}
+
+.menu-menu-footer-container ul li   a{
+
+    border-right: 1px solid #666;
+    padding: 0 16px;
+
+}
+.footer_wrapper .Foot_Link6{
+
+    margin-top:-21px;
+}
+
+.category_list .widget-title{
+    display:none;
+}
+
+.tptn_title {
+    color: #e54c4c;
+    font-size: 19px;
+    line-height: 16px;
+    padding-left: 46px;
+    
+}
+.tptn_after_thumb{
+    margin:0;
+}
+.tptn_excerpt{
+    display: inline-block;
+    float: none;
+    padding-top: 10px;
+    position: relative;
+    font-size:15px;
+    color: #666;
+}
+.sidebar_section .most_popuplar_post ul li .image_container {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+    width: 84px;
+}
+.wrapper{
+    float:left;
+   // color:#ddd;
+}
+.comments_section .comments-title{display:none;} 
+ .comment-meta{
+    background-color: #fff ;
+    width: 100%;
+}
+.comment-list{
+    list-style:none;
+}
+.comment-metadata{display:none;}
+textarea {
+    height: 80px !important ;
+    line-height: 1.5em;
+}
+.wpcf7-submit{
+  background: #9fbc35;
+  color: #fff;
+  font-family: 'roboto_slabregular';
+  display: block;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+input[type="submit"], #submit, .button {
+        padding: 0;
+}
+.comment_count a{
+
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+
