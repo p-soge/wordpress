@@ -30,11 +30,6 @@ function woo_custom_cart_button_text()
 
 
 
-
-//Share this 
-
-
-
 register_sidebar( array(
         'name'          => __( 'Product slider Sidebar', 'topshop' ),
         'id'            => 'slider-sidebar-1',
